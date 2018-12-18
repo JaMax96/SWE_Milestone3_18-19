@@ -1,4 +1,4 @@
-package jan.mochupgui;
+package jan.mockupgui;
 
 public class Test {
 
